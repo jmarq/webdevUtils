@@ -1,0 +1,7 @@
+I like to use grunt with livereload to view changes in pages as they are written.
+To set up a basic gruntfile with livereload features, just copy the grunfile in this folder to the working directory as Gruntfile.js.  Node and NPM are necessary.  The bash script in this page copies the gruntfile to the working directory and npm installs grunt and grunt-contrib watch.  N
+
+**NOTE**
+in the bash file, the gruntfile is copied from ~/programming/util/.....etc
+that is where I keep my util folder.
+if you download this and use it for your sites, you should change ~/programming/util to the whatever you named the util folder.

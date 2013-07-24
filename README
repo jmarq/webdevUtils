@@ -1,0 +1,8 @@
+this folder is (perhaps)
+to be used as a place to store helpful utility files/folders
+
+what?
+
+well, here's the example that prompted me to make the folder:
+
+I'm looking into unit testing with QUnit.  QUnit tests involve an HTML page with links to a particular stylesheet and script from the QUnit CDN.  I want to make a script that adds the barebones necessary file structure for javascript unit testing.  I can make a file in this utils folder, and an accompanying script that injects a copy of that file into the working directory.

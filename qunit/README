@@ -1,0 +1,3 @@
+in this folder is a simple page containing the bare necessities for qunit testing.
+also, there is a bash script that copies it to the working directory.
+change ~/programming/util in the bash script to whatever you named the utility folder repo you downloaded from github.  I found it useful to set an alias to the included bash script, so I call "addQunit" (or, "addQ"+tabcompletion) and it is copied for me.  
